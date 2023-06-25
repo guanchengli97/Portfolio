@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
             from <span className="purple"> Bhubaneswar, India.</span>
-            <br /> I am a final year student pursuing an  MSc (Master Computer Science)
+            <br /> I am a final year student pursuing an  MCS (Master Computer Science)
             in Computer Science at Rice University.
             <br />
             Additionally, I am currently employed as a software developer at
