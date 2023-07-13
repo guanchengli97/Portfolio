@@ -75,7 +75,7 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
-              <li className="social-icons">
+              {/* <li className="social-icons">
                 <a
                   href="https://twitter.com/Soumyajit4419"
                   target="_blank"
@@ -84,10 +84,10 @@ function Home2() {
                 >
                   <AiOutlineTwitter />
                 </a>
-              </li>
+              </li> */}
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/guancheng-li-4512401ba/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -95,7 +95,7 @@ function Home2() {
                   <FaLinkedinIn />
                 </a>
               </li>
-              <li className="social-icons">
+              {/* <li className="social-icons">
                 <a
                   href="https://www.instagram.com/soumyajit4419"
                   target="_blank"
@@ -104,7 +104,7 @@ function Home2() {
                 >
                   <AiFillInstagram />
                 </a>
-              </li>
+              </li> */}
             </ul>
           </Col>
         </Row>
