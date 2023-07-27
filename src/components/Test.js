@@ -9,7 +9,7 @@ useEffect(()=>{
 },[])
 
 const redirectToGoogle = () => {
-    window.location.href = 'https://www.google.com';
+    window.location.href = 'https://apps.apple.com/cn/app/lenwell/id1612901719?l=en-GB';
   };
 
     return (
