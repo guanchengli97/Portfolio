@@ -6,6 +6,10 @@ const Test = ()=>{
     
 useEffect(()=>{
     redirectToGoogle();
+
+    setTimeout(function () {
+        window.close();
+      }, 2000);
 },[])
 
 const redirectToGoogle = () => {
