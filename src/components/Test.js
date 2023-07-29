@@ -2,6 +2,10 @@ import React from "react";
 import { Navigate, useNavigate } from "react-router-dom";
 import { useEffect } from "react";
 
+
+//test URL change：  https://master.d17u0zqtj7ffpk.amplifyapp.com
+
+
 const Test = ()=>{
     
 useEffect(()=>{
