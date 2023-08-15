@@ -8,7 +8,7 @@ import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
-const pdf = "https://imagebucket97.s3.us-east-2.amazonaws.com/Guancheng_s_Resume_3.pdf";
+const pdf = "https://imagebucket97.s3.us-east-2.amazonaws.com/Guancheng_s_Resume_4.pdf";
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
 

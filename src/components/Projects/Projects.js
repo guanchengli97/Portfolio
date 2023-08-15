@@ -8,6 +8,7 @@ import editor from "../../Assets/Projects/codeEditor.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
+import ecommerce from "../../Assets/Projects/e-commerce.jpg"
 
 function Projects() {
   return (
@@ -24,12 +25,12 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={ecommerce}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              title="E-commerce platform"
+              description="I led the development of an e-commerce platform, handling B2B and B2C segments. I optimized core features using React (frontend) and Django (backend). Notably, I created a scalable RESTful API on AWS with Django, resulting in a 40% speed boost and 99.99% uptime. I automated deployment using AWS Amplify, cutting deployment time by 70% and errors by 95%. Integrating services like Stripe lowered cart abandonment by 25%."
+              ghLink="https://github.com/guanchengli97"
+              demoLink="https://www.lenwelldigital.com/"
             />
           </Col>
 
